@@ -1,0 +1,47 @@
+D:\Microsoft Visual Studio\Projects\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.exe
+D:\Microsoft Visual Studio\Projects\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.pdb
+D:\Microsoft Visual Studio\Projects\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.fTimBaoDong.resources
+D:\Microsoft Visual Studio\Projects\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.Properties.Resources.resources
+D:\Microsoft Visual Studio\Projects\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio\Projects\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.exe
+D:\Microsoft Visual Studio\Projects\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.pdb
+C:\Users\tinhlam\Documents\Zalo Received Files\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.exe
+C:\Users\tinhlam\Documents\Zalo Received Files\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.pdb
+C:\Users\tinhlam\Documents\Zalo Received Files\TimBaoDong\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.exe
+C:\Users\tinhlam\Documents\Zalo Received Files\TimBaoDong\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.pdb
+C:\Users\tinhlam\Documents\Zalo Received Files\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.fTimBaoDong.resources
+C:\Users\tinhlam\Documents\Zalo Received Files\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.Properties.Resources.resources
+C:\Users\tinhlam\Documents\Zalo Received Files\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.csproj.GenerateResource.Cache
+C:\Users\tinhlam\Documents\Zalo Received Files\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.csprojResolveAssemblyReference.cache
+D:\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.exe
+D:\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.pdb
+D:\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.csprojResolveAssemblyReference.cache
+D:\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.fTimBaoDong.resources
+D:\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.Properties.Resources.resources
+D:\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.csproj.GenerateResource.Cache
+D:\TimBaoDong\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.exe
+D:\TimBaoDong\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.pdb
+F:\Báo cáo\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.exe
+F:\Báo cáo\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.pdb
+F:\Báo cáo\TimBaoDong\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.exe
+F:\Báo cáo\TimBaoDong\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.pdb
+F:\Báo cáo\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.csprojResolveAssemblyReference.cache
+F:\Báo cáo\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.fTimBaoDong.resources
+F:\Báo cáo\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.Properties.Resources.resources
+F:\Báo cáo\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.csproj.GenerateResource.Cache
+D:\Desktop\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.exe
+D:\Desktop\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.pdb
+D:\Desktop\TimBaoDong\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.exe
+D:\Desktop\TimBaoDong\TimBaoDong\TimBaoDong\bin\Debug\TimBaoDong.pdb
+D:\Desktop\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.csprojResolveAssemblyReference.cache
+D:\Desktop\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.fTimBaoDong.resources
+D:\Desktop\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.Properties.Resources.resources
+D:\Desktop\TimBaoDong\TimBaoDong\TimBaoDong\obj\x86\Debug\TimBaoDong.csproj.GenerateResource.Cache
+D:\All\C# Projects\Find closure and all primary keys\TimBaoDong\obj\x86\Debug\TimBaoDong.exe
+D:\All\C# Projects\Find closure and all primary keys\TimBaoDong\obj\x86\Debug\TimBaoDong.pdb
+D:\All\C# Projects\Find closure and all primary keys\TimBaoDong\bin\Debug\TimBaoDong.exe
+D:\All\C# Projects\Find closure and all primary keys\TimBaoDong\bin\Debug\TimBaoDong.pdb
+D:\All\C# Projects\Find closure and all primary keys\TimBaoDong\obj\x86\Debug\TimBaoDong.csprojResolveAssemblyReference.cache
+D:\All\C# Projects\Find closure and all primary keys\TimBaoDong\obj\x86\Debug\TimBaoDong.fTimBaoDong.resources
+D:\All\C# Projects\Find closure and all primary keys\TimBaoDong\obj\x86\Debug\TimBaoDong.Properties.Resources.resources
+D:\All\C# Projects\Find closure and all primary keys\TimBaoDong\obj\x86\Debug\TimBaoDong.csproj.GenerateResource.Cache
